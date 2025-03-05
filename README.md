@@ -1,13 +1,15 @@
 👋 Hi, I’m @Abhinn-F5, and this is my work.
->
->1\. CHAT MANAGEMENT AND MODERATION SYSTEM
 
+>1\. CHAT MANAGEMENT AND MODERATION SYSTEM
 ***
+
 ## CHAT MANAGEMENT AND MODERATION SYSTEM
 
 Overview
 
 This project is a POSIX-compliant C implementation of a real-time chat management and moderation system, designed as an assignment for the Operating Systems (CS-F372) course. The system simulates a chat platform where users, groups, and a moderator communicate via Inter-Process Communication (IPC) mechanisms like message queues and pipes. The system monitors conversations and enforces moderation by filtering messages that contain restricted words.
+
+Requires **Ubuntu 22.04 or 24.04** and a C compiler and POSIX libraries.
 
 **Features**
 
@@ -34,9 +36,6 @@ This project is a POSIX-compliant C implementation of a real-time chat managemen
 1. Start validation.out (test case execution).
 2. Start moderator.out to handle moderation.
 3. Run app.out, which initializes and manages group processes.
-
-Requires **Ubuntu 22.04 or 24.04** and a C compiler and POSIX libraries.
-
 
 <!---
 Abhinn-F5/Abhinn-F5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
