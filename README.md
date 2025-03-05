@@ -1,6 +1,4 @@
 👋 Hi, I’m @Abhinn-F5, and this is my work.
-
->1\. CHAT MANAGEMENT AND MODERATION SYSTEM
 ***
 
 ## CHAT MANAGEMENT AND MODERATION SYSTEM
